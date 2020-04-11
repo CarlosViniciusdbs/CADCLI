@@ -1608,6 +1608,14 @@ object FormPrincipal: TFormPrincipal
       OnClick = btnMalaDiretaClick
     end
   end
+  object Panel2: TPanel
+    Left = 168
+    Top = 304
+    Width = 185
+    Height = 41
+    Caption = 'Panel2'
+    TabOrder = 2
+  end
   object MainMenu1: TMainMenu
     Left = 400
     Top = 8
